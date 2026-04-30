@@ -1,11 +1,11 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE:** 30.04.2026
 
-**NAME:**
+**NAME:** ABINAV AADITYA
 
-**ROLL NO:**
+**ROLL NO:** 212224040008
 
 **DEPARTMENT:**
 
@@ -119,11 +119,11 @@ int main(void)
 
 ## OUTPUT
 
-## OFF
+## ON
 
 <img width="620" height="833" alt="image" src="https://github.com/user-attachments/assets/4082ae79-02d3-4485-9aad-c213ba2179cf" />
 
-## ON 
+## OFF
 
 <img width="624" height="831" alt="image" src="https://github.com/user-attachments/assets/a5958cab-2632-46e2-85fb-06727d81bcb4" />
 
